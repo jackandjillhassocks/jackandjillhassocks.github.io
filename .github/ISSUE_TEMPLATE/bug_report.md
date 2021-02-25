@@ -1,6 +1,6 @@
 ---
 name: GWT Issue
-about: Create an issue with acceptance criteria or hypothesis
+about: Create an issue with acceptance criteria or hypothesis. Please don't close issues without checking with ticket raiser.
 ---
 **G**iven *some context*
 **W**hen *some action is carried out*
